@@ -1,4 +1,4 @@
-# Vue Jobs Project (YouTube)
+# Vue Jobs Project
 
 This is the jobs listing project from the [YouTube crash course](https://www.youtube.com/watch?v=VeNfHj6MhgA).
 
